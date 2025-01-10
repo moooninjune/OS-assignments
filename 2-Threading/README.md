@@ -62,3 +62,8 @@ The program will accept the **number of threads (`T`)** as a command-line argume
    - **OS:** Linux (Ubuntu).
    - **Compiler:** g++.
    - **Thread Library:** pthread.
+
+## Links to my code:
+- **Source codes:** [Unsafe version](/2-Threading/unsafe-version.cpp), [Safe version](/2-Threading/safe-version.cpp)
+
+- **Report:** [Report.pdf](/2-Threading/Report.pdf)
