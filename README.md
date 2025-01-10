@@ -1,5 +1,7 @@
 # OS Assignments
 
+Assignments I did for the Operating Systems course in my University.
+
 ## Programming Assignment #1: [OS Scheduler.](/1-Scheduler/README.md)
 
 **The goal of this assignment was** to implement a simple OS scheduler using C/C++. The scheduler’s task is to receive a set of processes and their details and then decide the order of executing these processes based on the chosen algorithm.
